@@ -1,10 +1,10 @@
 **Theano and LSTM for Sentiment Analysis**
 ===================
 
-![slides](http://i.imgur.com/7vDvQnY.png)
+![slides](https://github.com/arne-cl/theano-rnn-lstm-workshop-bastien-nextml2015/blob/master/credits.png)
 
 ###slides
-https://drive.google.com/a/startup.ml/file/d/0B6VRjP1VYAtTSWdaZ1BLTmQ0Qm8/view
+https://github.com/arne-cl/theano-rnn-lstm-workshop-bastien-nextml2015/blob/master/presentation.pdf
 
 ###nbviewer
 http://nbviewer.ipython.org/github/nouiz/nextml2015/tree/master/
